@@ -1,0 +1,8 @@
+In this assignment, I explored the Iris dataset to understand the relationships 
+between different flower features. I observed that petal length and petal width 
+are the most important features for distinguishing between species. Iris-setosa 
+is clearly separable from the other two species, while Iris-versicolor and 
+Iris-virginica show some overlap but can still be differentiated based on petal 
+measurements. Sepal features showed more variation and were less useful for clear 
+separation. Overall, the analysis showed that the dataset is well-structured and 
+suitable for classification tasks, especially when using petal-related features.
